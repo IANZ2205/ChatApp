@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ChatApp.Client/ChatApp.Client.csproj" Id="ece3e28b-a35a-4a65-ac9d-c124f60a193c" />
+  <Project Path="ChatApp.Common/ChatApp.Common.csproj" Id="bfa4472d-a299-436d-8e85-e87154eb0fe6" />
+  <Project Path="ChatApp.Server/ChatApp.Server.csproj" Id="d516d10e-86fa-48e1-978e-eea7deddad53" />
+</Solution>
